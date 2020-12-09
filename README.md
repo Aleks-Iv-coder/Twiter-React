@@ -6,7 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 It's my first React project, as a part of training course where I was lern how to creat and implement the React componentets, to use a 'props' and 'state' to changed the componets dinamecly.
 
 <img alt="app screenshot" src="./src/images/Twiter-React.PNG" width="800" />
-<img src="https://github.com/Aleks-Iv-coder/Twiter-React/blob/main/src/images/Twiter-React.PNG">
 
 This project has the same function as the Twiter. You can put a short message, to search it by key words or even by single letters. Also you can like or highlight your messages and then to sort it by priority.
 
