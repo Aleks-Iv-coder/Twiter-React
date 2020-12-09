@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 It's a web application made by React where you can make a short posts, highlight, sort, like and search it.
 It's my first React project, as a part of training course where I was lern how to creat and implement the React componentets, to use a 'props' and 'state' to changed the componets dinamecly.
 
+![app screenshot](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 This project has the same function as the Twiter. You can put a short message, to search it by key words or even by single letters. Also you can like or highlight your messages and then to sort it by priority.
 
 If you want to see how this app works you need to download this repository and run the app in the development mode.
